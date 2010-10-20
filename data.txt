@@ -1,4 +1,3 @@
-/MSOffice/cltreq.asp?UL=1&ACT=4&BUILD=8164&STRMVER=4&CAPREQ=0
 /_vti_bin/owssvr.dll?UL=1&ACT=4&BUILD=8164&STRMVER=4&CAPREQ=0
 /wordpress2/wp-login.php
 /backup/wp-login.php
@@ -41,7 +40,6 @@
 /system-cgi/awstats.pl
 /cgi/awstats.pl
 /cp/awstats/awstats.pl
-/MSOffice/cltreq.asp?UL=1&ACT=4&BUILD=6551&STRMVER=4&CAPREQ=0
 /content/administrator/index.php
 /home/administrator/index.php
 /main/administrator/index.php
@@ -61,7 +59,6 @@
 /test/administrator/index.php
 /backup/administrator/index.php
 /administrator/index.php
-/MSOffice/cltreq.asp?UL=1&ACT=4&BUILD=6415&STRMVER=4&CAPREQ=0
 /webstat/usage_201007.html 
 /statistik/usage_201007.html
 /statistiche/usage_201007.html
